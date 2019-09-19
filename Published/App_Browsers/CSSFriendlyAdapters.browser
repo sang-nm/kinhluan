@@ -1,0 +1,226 @@
+<browsers>
+
+  <browser refID="Default">
+    <controlAdapters>
+
+      <adapter controlType="CanhCam.Web.UI.gbTreeView"
+					 adapterType="CanhCam.Web.TreeViewAdapter" />
+
+      <adapter controlType="CanhCam.Web.Controls.gbGridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+
+      <!--
+			<adapter controlType="System.Web.UI.WebControls.GridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+               -->
+
+      <!--
+      <adapter controlType="System.Web.UI.WebControls.RadioButtonList"
+					 adapterType="CSSFriendly.RadioButtonListAdapter" />
+      
+      <adapter controlType="System.Web.UI.WebControls.CheckBoxList"
+					 adapterType="CSSFriendly.CheckBoxListAdapter" />
+           -->
+
+      <adapter controlType="CanhCam.Web.UI.gbDataList"
+					 adapterType="CSSFriendly.DataListAdapter" />
+
+
+      <!--
+			<adapter controlType="System.Web.UI.WebControls.CreateUserWizard"
+               adapterType="CanhCam.Web.CreateUserWizardAdapter" />
+			   -->
+
+    </controlAdapters>
+  </browser>
+
+  <browser refID="IE6to9">
+    <controlAdapters>
+
+      <adapter controlType="CanhCam.Web.UI.gbTreeView"
+           adapterType="CanhCam.Web.TreeViewAdapter" />
+
+      <adapter controlType="CanhCam.Web.Controls.gbGridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+
+      <!--
+		<adapter controlType="System.Web.UI.WebControls.GridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+               -->
+
+      <!--
+      <adapter controlType="System.Web.UI.WebControls.RadioButtonList"
+             adapterType="CSSFriendly.RadioButtonListAdapter" />
+
+      
+      <adapter controlType="System.Web.UI.WebControls.CheckBoxList"
+					 adapterType="CSSFriendly.CheckBoxListAdapter" />
+           -->
+
+      <adapter controlType="CanhCam.Web.UI.gbDataList"
+					 adapterType="CSSFriendly.DataListAdapter" />
+
+
+      <!--
+			<adapter controlType="System.Web.UI.WebControls.CreateUserWizard"
+               adapterType="CanhCam.Web.CreateUserWizardAdapter" />
+			   -->
+
+    </controlAdapters>
+  </browser>
+
+  <browser refID="Opera8to9">
+    <controlAdapters>
+      
+      <adapter controlType="CanhCam.Web.UI.gbTreeView"
+           adapterType="CanhCam.Web.TreeViewAdapter" />
+
+      <adapter controlType="CanhCam.Web.Controls.gbGridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+      
+
+      <!--
+		<adapter controlType="System.Web.UI.WebControls.GridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+               -->
+
+      <!--
+    <adapter controlType="System.Web.UI.WebControls.RadioButtonList"
+					 adapterType="CSSFriendly.RadioButtonListAdapter" />
+
+    
+      <adapter controlType="System.Web.UI.WebControls.CheckBoxList"
+					 adapterType="CSSFriendly.CheckBoxListAdapter" />
+           -->
+
+      <adapter controlType="CanhCam.Web.UI.gbDataList"
+					 adapterType="CSSFriendly.DataListAdapter" />
+
+      <!--
+			<adapter controlType="System.Web.UI.WebControls.CreateUserWizard"
+               adapterType="CanhCam.Web.CreateUserWizardAdapter" />
+			   -->
+
+    </controlAdapters>
+
+  </browser>
+
+  <browser refID="Safari">
+    <controlAdapters>
+      
+      <adapter controlType="CanhCam.Web.UI.gbTreeView"
+           adapterType="CanhCam.Web.TreeViewAdapter" />
+
+      <adapter controlType="CanhCam.Web.Controls.gbGridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+
+      <!--
+		<adapter controlType="System.Web.UI.WebControls.GridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+               -->
+
+      <!--
+    <adapter controlType="System.Web.UI.WebControls.RadioButtonList"
+					 adapterType="CSSFriendly.RadioButtonListAdapter" />
+
+    
+      <adapter controlType="System.Web.UI.WebControls.CheckBoxList"
+					 adapterType="CSSFriendly.CheckBoxListAdapter" />
+           -->
+
+      <adapter controlType="CanhCam.Web.UI.gbDataList"
+					 adapterType="CSSFriendly.DataListAdapter" />
+
+      <!--
+			<adapter controlType="System.Web.UI.WebControls.CreateUserWizard"
+               adapterType="CanhCam.Web.CreateUserWizardAdapter" />
+			   -->
+    </controlAdapters>
+  </browser>
+
+  <browser id="W3C_Validator" parentID="default">
+    <identification>
+      <userAgent match="^W3C_Validator" />
+    </identification>
+    <capabilities>
+      <!-- 
+		I don't think I need or want this here 
+		capabilities for w3c are defined in another file and working correctly
+		-->
+      <capability name="browser"              value="W3C Validator" />
+      <capability name="ecmaScriptVersion"    value="1.2" />
+      <capability name="javascript"           value="true" />
+      <capability name="supportsCss"          value="true" />
+      <capability name="tables"               value="true" />
+      <capability name="tagWriter"            value="System.Web.UI.HtmlTextWriter" />
+      <capability name="w3cdomversion"        value="1.0" />
+    </capabilities>
+    <controlAdapters>
+
+      <adapter controlType="CanhCam.Web.UI.gbTreeView"
+           adapterType="CanhCam.Web.TreeViewAdapter" />
+
+      <adapter controlType="CanhCam.Web.Controls.gbGridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+
+
+      <!--
+		<adapter controlType="System.Web.UI.WebControls.GridView"
+               adapterType="CanhCam.Web.GridViewAdapter" />
+               -->
+
+      <!--
+    <adapter controlType="System.Web.UI.WebControls.RadioButtonList"
+					 adapterType="CSSFriendly.RadioButtonListAdapter" />
+
+    
+      <adapter controlType="System.Web.UI.WebControls.CheckBoxList"
+					 adapterType="CSSFriendly.CheckBoxListAdapter" />
+           -->
+
+      <adapter controlType="CanhCam.Web.UI.gbDataList"
+					 adapterType="CSSFriendly.DataListAdapter" />
+
+      <!--
+			<adapter controlType="System.Web.UI.WebControls.CreateUserWizard"
+               adapterType="CanhCam.Web.CreateUserWizardAdapter" />
+			   -->
+    </controlAdapters>
+  </browser>
+
+  <browser refID="Mozilla">
+
+    <controlAdapters>
+
+      <adapter controlType="CanhCam.Web.UI.gbTreeView"
+           adapterType="CanhCam.Web.TreeViewAdapter" />
+
+      <adapter controlType="CanhCam.Web.Controls.gbGridView"
+                adapterType="CanhCam.Web.GridViewAdapter" />
+
+      <adapter controlType="CanhCam.Web.UI.gbDataList"
+					 adapterType="CSSFriendly.DataListAdapter" />
+      
+      <!--
+		<adapter controlType="System.Web.UI.WebControls.GridView"
+		   adapterType="CanhCam.Web.GridViewAdapter" />
+       -->
+
+      <!--
+    <adapter controlType="System.Web.UI.WebControls.RadioButtonList"
+					 adapterType="CSSFriendly.RadioButtonListAdapter" />
+
+    
+      <adapter controlType="System.Web.UI.WebControls.CheckBoxList"
+					 adapterType="CSSFriendly.CheckBoxListAdapter" />
+           -->
+
+      <!--
+			<adapter controlType="System.Web.UI.WebControls.CreateUserWizard"
+               adapterType="CanhCam.Web.CreateUserWizardAdapter" />
+			   -->
+
+    </controlAdapters>
+
+  </browser>
+</browsers>

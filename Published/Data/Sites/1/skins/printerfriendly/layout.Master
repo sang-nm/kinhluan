@@ -1,0 +1,58 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="~/App_MasterPages/layout.Master.cs" Inherits="CanhCam.Web.layout" %>
+
+<!DOCTYPE html>
+<html id="Html1" runat="server">
+<head id="Head1" runat="server">
+    <title></title>
+    <portal:MetaContent ID="MetaContent" runat="server" />
+    <portal:StyleSheetCombiner ID="StyleSheetCombiner" runat="server" IncludejQueryUI="false" />
+    <portal:IEStyleIncludes ID="IEStyleIncludes1" runat="server" />
+    <portal:Favicon ID="Favicon1" runat="server" />
+    <portal:ScriptLoader ID="ScriptLoader1" runat="server" />
+</head>
+<body class="pagebody" id="Body" runat="server">
+    <portal:LayoutDisplaySettings ID="LayoutDisplaySettings1" runat="server" />
+    <form id="frmMain" runat="server">
+    <asp:SiteMapDataSource ID="SiteMapData" runat="server" ShowStartingNode="false" />
+    <asp:SiteMapDataSource ID="PageMapDataSource" runat="server" ShowStartingNode="false" />
+    <asp:SiteMapDataSource ID="ChildPageSiteMapData" runat="server" ShowStartingNode="false" />
+    <asp:ScriptManager ID="ScriptManager1" EnablePageMethods="true" runat="server" />
+    <div id="wrapwebsite">
+        <asp:ContentPlaceHolder ID="pageEditContent" runat="server" Visible="false">
+        </asp:ContentPlaceHolder>
+        <div class="wrapcenter">
+            <div class="right"><a href="JavaScript:window.print()">In trang</a></div>
+            <asp:Panel ID="divCenter" runat="server" Visible="true" CssClass="center-nomargins" SkinID="pnlPlain">
+                <asp:ContentPlaceHolder ID="mainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </asp:Panel>
+            <div runat="server" visible="false">
+                <asp:Panel ID="divAlt1" runat="server" CssClass="altcontent1">
+                    <div class="slide">
+                        <div class="container relative">
+                            <asp:ContentPlaceHolder ID="altContent1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                </asp:Panel>
+                <asp:Panel ID="divLeft" runat="server" CssClass="leftside" Visible="True" SkinID="pnlPlain">
+                    <asp:ContentPlaceHolder ID="leftContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </asp:Panel>
+                <asp:Panel ID="divRight" runat="server" Visible="true" CssClass="rightside" SkinID="pnlPlain">
+                    <asp:ContentPlaceHolder ID="rightContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </asp:Panel>
+                <asp:Panel ID="divAltContent2" runat="server" CssClass="altcontent2">
+                    <asp:ContentPlaceHolder ID="altContent2" runat="server">
+                    </asp:ContentPlaceHolder>
+                </asp:Panel>
+            </div>
+            <hr />
+            <portal:CopyrightLabel id="cl1" runat="server" ShowYear="true" beginyear="2013" />
+        </div>
+        <%--<portal:QRCodeImage ID="qr1" runat="server" AutoDetectPageUrl="true" />--%>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{103F2B02-3224-48BC-B173-1F7E1C85178A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CanhCam.Features.News</RootNamespace>
+    <AssemblyName>CanhCam.Features.News</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Argotic.Common, Version=2008.0.2.0, Culture=neutral, PublicKeyToken=84b2ce808fb02469, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\argotic\Argotic.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Argotic.Core, Version=2008.0.2.0, Culture=neutral, PublicKeyToken=84b2ce808fb02469, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\argotic\Argotic.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Argotic.Extensions, Version=2008.0.2.0, Culture=neutral, PublicKeyToken=84b2ce808fb02469, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\argotic\Argotic.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Brettle.Web.NeatHtml, Version=1.0.3373.23565, Culture=neutral">
+      <HintPath>..\_libs\Brettle.Web.NeatHtml.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Business, Version=1.0.4919.24305, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Published\bin\CanhCam.Business.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Business.WebHelpers">
+      <HintPath>..\Published\bin\CanhCam.Business.WebHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Data">
+      <HintPath>..\Published\bin\CanhCam.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Published\bin\CanhCam.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web">
+      <HintPath>..\Published\bin\CanhCam.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web.Controls, Version=1.0.5073.26264, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Published\bin\CanhCam.Web.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web.Editor">
+      <HintPath>..\Published\bin\CanhCam.Web.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web.Framework">
+      <HintPath>..\Published\bin\CanhCam.Web.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlDiff, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\HtmlDiff.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\log4net1-2-11\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.Web.UI, Version=2013.1.417.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\Telerik\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_GlobalResources\NewsResources.resx">
+      <SubType>Designer</SubType>
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>NewsResources.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="bin\Argotic.Common.dll" />
+    <Content Include="bin\Argotic.Common.pdb" />
+    <Content Include="bin\Argotic.Common.xml" />
+    <Content Include="bin\Argotic.Core.dll" />
+    <Content Include="bin\Argotic.Core.pdb" />
+    <Content Include="bin\Argotic.Core.xml" />
+    <Content Include="bin\Argotic.Extensions.dll" />
+    <Content Include="bin\Argotic.Extensions.pdb" />
+    <Content Include="bin\Argotic.Extensions.xml" />
+    <Content Include="bin\Brettle.Web.NeatHtml.dll" />
+    <Content Include="bin\Brettle.Web.NeatHtmlTools.dll" />
+    <Content Include="bin\CanhCam.Business.dll" />
+    <Content Include="bin\CanhCam.Business.WebHelpers.dll" />
+    <Content Include="bin\CanhCam.Data.dll" />
+    <Content Include="bin\CanhCam.Features.Banner.dll" />
+    <Content Include="bin\CanhCam.Features.ContactForm.dll" />
+    <Content Include="bin\CanhCam.Features.Custom.dll" />
+    <Content Include="bin\CanhCam.Features.Custom.pdb" />
+    <Content Include="bin\CanhCam.Features.Facebook.dll" />
+    <Content Include="bin\CanhCam.Features.FAQs.dll" />
+    <Content Include="bin\CanhCam.Features.FormWizard.dll" />
+    <Content Include="bin\CanhCam.Features.ImageGallery.dll" />
+    <Content Include="bin\CanhCam.Features.News.dll" />
+    <Content Include="bin\CanhCam.Features.News.pdb" />
+    <Content Include="bin\CanhCam.Features.SharedFiles.dll" />
+    <Content Include="bin\CanhCam.Features.VideoPlayer.dll" />
+    <Content Include="bin\CanhCam.Net.dll" />
+    <Content Include="bin\CanhCam.SiteImageService.dll" />
+    <Content Include="bin\CanhCam.Web.Controls.dll" />
+    <Content Include="bin\CanhCam.Web.dll" />
+    <Content Include="bin\CanhCam.Web.Editor.dll" />
+    <Content Include="bin\CanhCam.Web.Framework.dll" />
+    <Content Include="bin\CanhCam.Web.Utilities.dll" />
+    <Content Include="bin\dotless.Core.dll" />
+    <Content Include="bin\DotNetOpenAuth.dll" />
+    <Content Include="bin\HtmlDiff.dll" />
+    <Content Include="bin\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="bin\Ionic.Zip.Reduced.dll" />
+    <Content Include="bin\log4net.dll" />
+    <Content Include="bin\log4net.xml" />
+    <Content Include="bin\Lucene.Net.Contrib.Analyzers.dll" />
+    <Content Include="bin\Lucene.Net.Contrib.Highlighter.dll" />
+    <Content Include="bin\Lucene.Net.Contrib.Memory.dll" />
+    <Content Include="bin\Lucene.Net.dll" />
+    <Content Include="bin\MetaDataExtractor.dll" />
+    <Content Include="bin\Microsoft.ApplicationServer.Caching.Client.dll" />
+    <Content Include="bin\Microsoft.ApplicationServer.Caching.Core.dll" />
+    <Content Include="bin\Microsoft.WindowsFabric.Common.dll" />
+    <Content Include="bin\Microsoft.WindowsFabric.Data.Common.dll" />
+    <Content Include="bin\Novell.Directory.Ldap.dll" />
+    <Content Include="bin\NPOI.dll" />
+    <Content Include="bin\Recaptcha.dll" />
+    <Content Include="bin\Subkismet.dll" />
+    <Content Include="bin\Telerik.Web.UI.dll" />
+    <Content Include="bin\Telerik.Web.UI.Skins.dll" />
+    <Content Include="News\Controls\CommentControl.ascx" />
+    <Content Include="News\Controls\HomeControl.ascx" />
+    <Content Include="News\Controls\NewsDetailControl.ascx" />
+    <Content Include="News\Controls\NewsTypeControl.ascx" />
+    <Content Include="News\Controls\ParentZonesSetting.ascx" />
+    <Content Include="News\Controls\ParentZoneSetting.ascx" />
+    <Content Include="News\Controls\NewsSortBySetting.ascx" />
+    <Content Include="News\Controls\NewsPositionSetting.ascx" />
+    <Content Include="News\Controls\NewListControl.ascx" />
+    <Content Include="News\NewsSpecial.aspx" />
+    <Content Include="News\NewsMove.aspx" />
+    <Content Include="News\JobApplyDialog.aspx" />
+    <Content Include="News\Controls\JobApplyControl.ascx" />
+    <Content Include="News\JobCVListDialog.aspx" />
+    <Content Include="News\EmailSubjectDialog.aspx" />
+    <Content Include="News\Controls\NewsDetailTemplatesSetting.ascx" />
+    <Content Include="News\Controls\NewsTypeSetting.ascx" />
+    <Content Include="News\Controls\NewsListControlold.ascx" />
+    <Content Include="News\Controls\NewsViewControl.ascx" />
+    <Content Include="News\NewsDetail.aspx" />
+    <Content Include="News\NewsEdit.aspx" />
+    <Content Include="News\NewsList.aspx" />
+    <Content Include="News\NewsModule.ascx" />
+    <Content Include="News\Controls\NewsTemplatesSetting.ascx" />
+    <Content Include="News\NewsSpecial.ascx" />
+    <Content Include="News\NewsUrlSuggestService.ashx" />
+    <Content Include="News\RejectContent.aspx" />
+    <Content Include="News\SearchResults.aspx" />
+    <Content Include="News\Services\NewsService.aspx" />
+    <Content Include="News\Services\SearchCountResult.ashx" />
+    <Content Include="News\ZoneNewsModule.ascx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_GlobalResources\NewsResources.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewsResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Business\KLNews.cs" />
+    <Compile Include="News\Business\KLAuthor.cs" />
+    <Compile Include="News\Business\KLNewType.cs" />
+    <Compile Include="News\Business\KLLikeHistory.cs" />
+    <Compile Include="News\Business\KLViewHistory.cs" />
+    <Compile Include="News\Business\News.cs" />
+    <Compile Include="News\Components\NewsDisplaySettings.cs" />
+    <Compile Include="News\Components\NewsIndexBuilderProvider.cs" />
+    <Compile Include="News\Components\NewsPermission.cs" />
+    <Compile Include="News\Controls\CommentControl.ascx.cs">
+      <DependentUpon>CommentControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\CommentControl.ascx.designer.cs">
+      <DependentUpon>CommentControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\HomeControl.ascx.cs">
+      <DependentUpon>HomeControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\HomeControl.ascx.designer.cs">
+      <DependentUpon>HomeControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsDetailControl.ascx.cs">
+      <DependentUpon>NewsDetailControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsDetailControl.ascx.designer.cs">
+      <DependentUpon>NewsDetailControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsTypeControl.ascx.cs">
+      <DependentUpon>NewsTypeControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsTypeControl.ascx.designer.cs">
+      <DependentUpon>NewsTypeControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\ParentZonesSetting.ascx.cs">
+      <DependentUpon>ParentZonesSetting.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\ParentZonesSetting.ascx.designer.cs">
+      <DependentUpon>ParentZonesSetting.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\ParentZoneSetting.ascx.cs">
+      <DependentUpon>ParentZoneSetting.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\ParentZoneSetting.ascx.designer.cs">
+      <DependentUpon>ParentZoneSetting.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsSortBySetting.ascx.cs">
+      <DependentUpon>NewsSortBySetting.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsSortBySetting.ascx.designer.cs">
+      <DependentUpon>NewsSortBySetting.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsPositionSetting.ascx.cs">
+      <DependentUpon>NewsPositionSetting.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsPositionSetting.ascx.designer.cs">
+      <DependentUpon>NewsPositionSetting.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Data\DBKLAuthor.cs" />
+    <Compile Include="News\Data\DBKLNewType.cs" />
+    <Compile Include="News\Controls\NewListControl.ascx.cs">
+      <DependentUpon>NewListControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewListControl.ascx.designer.cs">
+      <DependentUpon>NewListControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Data\DBKLNew.cs" />
+    <Compile Include="News\Data\DBKLLikeHistory.cs" />
+    <Compile Include="News\Data\DBKLViewHistory.cs" />
+    <Compile Include="News\NewsSpecial.aspx.cs">
+      <DependentUpon>NewsSpecial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\NewsSpecial.aspx.designer.cs">
+      <DependentUpon>NewsSpecial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsMove.aspx.cs">
+      <DependentUpon>NewsMove.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\NewsMove.aspx.designer.cs">
+      <DependentUpon>NewsMove.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\JobApplyDialog.aspx.cs">
+      <DependentUpon>JobApplyDialog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\JobApplyDialog.aspx.designer.cs">
+      <DependentUpon>JobApplyDialog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\JobApplyControl.ascx.cs">
+      <DependentUpon>JobApplyControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\JobApplyControl.ascx.designer.cs">
+      <DependentUpon>JobApplyControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\JobCVListDialog.aspx.cs">
+      <DependentUpon>JobCVListDialog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\JobCVListDialog.aspx.designer.cs">
+      <DependentUpon>JobCVListDialog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Data\DBNews.cs" />
+    <Compile Include="News\EmailSubjectDialog.aspx.cs">
+      <DependentUpon>EmailSubjectDialog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\EmailSubjectDialog.aspx.designer.cs">
+      <DependentUpon>EmailSubjectDialog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsSiteMap.ashx.cs">
+      <DependentUpon>NewsSiteMap.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Components\NewsSpecialConfiguration.cs" />
+    <Compile Include="News\Components\NewsHelper.cs" />
+    <Compile Include="News\Components\NewsConfiguration.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="News\Components\SitePreDeleteNewsHandler.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsDetailTemplatesSetting.ascx.cs">
+      <DependentUpon>NewsDetailTemplatesSetting.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsDetailTemplatesSetting.ascx.designer.cs">
+      <DependentUpon>NewsDetailTemplatesSetting.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsTypeSetting.ascx.cs">
+      <DependentUpon>NewsTypeSetting.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsTypeSetting.ascx.designer.cs">
+      <DependentUpon>NewsTypeSetting.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsListControlold.ascx.cs">
+      <DependentUpon>NewsListControlold.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsListControlold.ascx.designer.cs">
+      <DependentUpon>NewsListControlold.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsViewControl.ascx.cs">
+      <DependentUpon>NewsViewControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsViewControl.ascx.designer.cs">
+      <DependentUpon>NewsViewControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsDetail.aspx.cs">
+      <DependentUpon>NewsDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\NewsDetail.aspx.designer.cs">
+      <DependentUpon>NewsDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsEdit.aspx.cs">
+      <DependentUpon>NewsEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\NewsEdit.aspx.designer.cs">
+      <DependentUpon>NewsEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsList.aspx.cs">
+      <DependentUpon>NewsList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\NewsList.aspx.designer.cs">
+      <DependentUpon>NewsList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsModule.ascx.cs">
+      <DependentUpon>NewsModule.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\NewsModule.ascx.designer.cs">
+      <DependentUpon>NewsModule.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Controls\NewsTemplatesSetting.ascx.cs">
+      <DependentUpon>NewsTemplatesSetting.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Controls\NewsTemplatesSetting.ascx.designer.cs">
+      <DependentUpon>NewsTemplatesSetting.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsSpecial.ascx.cs">
+      <DependentUpon>NewsSpecial.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\NewsSpecial.ascx.designer.cs">
+      <DependentUpon>NewsSpecial.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="News\NewsUrlSuggestService.ashx.cs">
+      <DependentUpon>NewsUrlSuggestService.ashx</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="News\RejectContent.aspx.cs">
+      <DependentUpon>RejectContent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\RejectContent.aspx.designer.cs">
+      <DependentUpon>RejectContent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\SearchResults.aspx.cs">
+      <DependentUpon>SearchResults.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\SearchResults.aspx.designer.cs">
+      <DependentUpon>SearchResults.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Services\NewsService.aspx.cs">
+      <DependentUpon>NewsService.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\Services\NewsService.aspx.designer.cs">
+      <DependentUpon>NewsService.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\Services\SearchCountResult.ashx.cs">
+      <DependentUpon>SearchCountResult.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="News\ZoneNewsModule.ascx.cs">
+      <DependentUpon>ZoneNewsModule.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\ZoneNewsModule.ascx.designer.cs">
+      <DependentUpon>ZoneNewsModule.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Setup\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="News\NewsSiteMap.ashx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\CanhCam.Features.News.dll.config" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57646</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /s /y /d "$(ProjectDir)bin\CanhCam.Features.News.dll" "$(SolutionDir)Published\bin\"
+xcopy /s /y /d "$(ProjectDir)App_GlobalResources\*.resx" "$(SolutionDir)Published\App_GlobalResources\"
+xcopy /s /y /d "$(ProjectDir)Setup\*" "$(SolutionDir)Published\Setup"
+xcopy /s /y /d "$(ProjectDir)Data\*" "$(SolutionDir)Published\Data"
+
+xcopy /s /y /d "$(ProjectDir)News\*.aspx" "$(SolutionDir)Published\News\"
+xcopy /s /y /d "$(ProjectDir)News\*.ascx" "$(SolutionDir)Published\News\"
+xcopy /s /y /d "$(ProjectDir)News\*.ashx" "$(SolutionDir)Published\News\"
+
+
+xcopy /s /y /d "$(ProjectDir)bin\CanhCam.Features.News.dll" "$(SolutionDir)Web\bin\"
+xcopy /s /y /d "$(ProjectDir)App_GlobalResources\*.resx" "$(SolutionDir)Web\App_GlobalResources\"
+xcopy /s /y /d "$(ProjectDir)Setup\*" "$(SolutionDir)Web\Setup"
+xcopy /s /y /d "$(ProjectDir)Data\*" "$(SolutionDir)Web\Data"
+
+xcopy /s /y /d "$(ProjectDir)News\*.aspx" "$(SolutionDir)Web\News\"
+xcopy /s /y /d "$(ProjectDir)News\*.ascx" "$(SolutionDir)Web\News\"
+xcopy /s /y /d "$(ProjectDir)News\*.ashx" "$(SolutionDir)Web\News\"</PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+</Project>

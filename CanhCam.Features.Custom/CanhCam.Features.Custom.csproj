@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9174384E-4DC4-4490-AAEF-754C27EEF02E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CanhCam.Features.Custom</RootNamespace>
+    <AssemblyName>CanhCam.Features.Custom</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Argotic.Common, Version=2008.0.2.0, Culture=neutral, PublicKeyToken=84b2ce808fb02469, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\argotic\Argotic.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Argotic.Core, Version=2008.0.2.0, Culture=neutral, PublicKeyToken=84b2ce808fb02469, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\argotic\Argotic.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Argotic.Extensions, Version=2008.0.2.0, Culture=neutral, PublicKeyToken=84b2ce808fb02469, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\argotic\Argotic.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Brettle.Web.NeatHtml, Version=1.0.3373.23565, Culture=neutral">
+      <HintPath>..\_libs\Brettle.Web.NeatHtml.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Business, Version=1.0.4919.24305, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Published\bin\CanhCam.Business.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Business.WebHelpers">
+      <HintPath>..\Published\bin\CanhCam.Business.WebHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Data">
+      <HintPath>..\Published\bin\CanhCam.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Features.FormWizard">
+      <HintPath>..\Published\bin\CanhCam.Features.FormWizard.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Net">
+      <HintPath>..\Published\bin\CanhCam.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web">
+      <HintPath>..\Published\bin\CanhCam.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web.Controls, Version=1.0.5073.26264, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Published\bin\CanhCam.Web.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web.Editor">
+      <HintPath>..\Published\bin\CanhCam.Web.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="CanhCam.Web.Framework">
+      <HintPath>..\Published\bin\CanhCam.Web.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlDiff, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\HtmlDiff.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\log4net1-2-11\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.0.8.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\HaiNam-SourceTree\packages\Newtonsoft.Json.5.0.4\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=2.0.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\VietAnh\Published\bin\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.Web.UI, Version=2012.1.215.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_libs\Telerik\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Argotic.Common.dll" />
+    <Content Include="bin\Argotic.Core.dll" />
+    <Content Include="bin\Argotic.Extensions.dll" />
+    <Content Include="bin\Brettle.Web.NeatHtml.dll" />
+    <Content Include="bin\CanhCam.Features.Banner.dll" />
+    <Content Include="bin\CanhCam.Features.ContactForm.dll" />
+    <Content Include="bin\CanhCam.Features.Custom.dll" />
+    <Content Include="bin\CanhCam.Features.Custom.pdb" />
+    <Content Include="bin\CanhCam.Features.Facebook.dll" />
+    <Content Include="bin\CanhCam.Features.FAQs.dll" />
+    <Content Include="bin\CanhCam.Features.ImageGallery.dll" />
+    <Content Include="bin\CanhCam.Features.SharedFiles.dll" />
+    <Content Include="bin\CanhCam.Features.VideoPlayer.dll" />
+    <Content Include="bin\CanhCam.SiteImageService.dll" />
+    <Content Include="bin\HtmlDiff.dll" />
+    <Content Include="bin\log4net.dll" />
+    <Content Include="bin\Newtonsoft.Json.xml" />
+    <Content Include="bin\NPOI.dll" />
+    <Content Include="bin\Telerik.Web.UI.dll" />
+    <Content Include="bin\Telerik.Web.UI.Skins.dll" />
+    <Content Include="Custom\Abouts.ascx" />
+    <Content Include="Custom\AuthorList.aspx" />
+    <Content Include="Custom\AuthorManageGratitude.ascx" />
+    <Content Include="Custom\AuthorManagerComment.ascx" />
+    <Content Include="Custom\ChangeNewPassword.ascx" />
+    <Content Include="Custom\KLADDGratitude.ascx" />
+    <Content Include="Custom\klAuthorChangePassword.ascx" />
+    <Content Include="Custom\KLAuthorFollowing.ascx" />
+    <Content Include="Custom\KLAuthorLayer.ascx" />
+    <Content Include="Custom\KLAuthorList.ascx" />
+    <Content Include="Custom\KLAuthorLogin.ascx" />
+    <Content Include="Custom\KLAuthorNews.ascx" />
+    <Content Include="Custom\KLAuthor_Articles.ascx" />
+    <Content Include="Custom\KLAuthor_Books.ascx" />
+    <Content Include="Custom\KLAuthor_Gratitude.ascx" />
+    <Content Include="Custom\KLBookPosted.ascx" />
+    <Content Include="Custom\KLEditAuthor.ascx" />
+    <Content Include="Custom\KLGratitudePage.ascx" />
+    <Content Include="Custom\KLRegisterAuthor.ascx" />
+    <Content Include="Custom\KLADDBook.ascx" />
+    <Content Include="Custom\KLADDNews.ascx" />
+    <Content Include="Custom\LeftMenu.ascx" />
+    <Content Include="Custom\NewsComments.ascx" />
+    <Content Include="Custom\NewTypeEdit.aspx" />
+    <Content Include="Custom\NewTypeList.aspx" />
+    <Content Include="Custom\RegisterSuccess.ascx" />
+    <Content Include="Custom\ResetPassword.ascx" />
+    <Content Include="Custom\Services\NewsServices.aspx" />
+    <Content Include="obj\Debug\CanhCam.Features.Custom.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\CanhCam.Features.Custom.dll" />
+    <Content Include="obj\Debug\CanhCam.Features.Custom.pdb" />
+    <Content Include="obj\Debug\CanhCam.Features.News.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\CanhCam.Features.News.dll" />
+    <Content Include="obj\Debug\CanhCam.Features.News.pdb" />
+    <Content Include="obj\Debug\TempPE\App_GlobalResources.CustomResources.designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\App_GlobalResources.DealerResources.designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\App_GlobalResources.NewsResources.designer.cs.dll" />
+    <Content Include="obj\Release\CanhCam.Features.Custom.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\CanhCam.Features.Custom.dll" />
+    <Content Include="obj\Release\CanhCam.Features.Custom.pdb" />
+    <Content Include="obj\Release\CanhCam.Features.News.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\CanhCam.Features.News.dll" />
+    <Content Include="obj\Release\CanhCam.Features.News.pdb" />
+    <Content Include="obj\Release\TempPE\App_GlobalResources.CustomResources.designer.cs.dll" />
+    <Content Include="obj\Release\TempPE\App_GlobalResources.DealerResources.designer.cs.dll" />
+    <Content Include="obj\Release\TempPE\App_GlobalResources.NewsResources.designer.cs.dll" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_GlobalResources\CustomResources.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\Abouts.ascx.cs">
+      <DependentUpon>Abouts.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\Abouts.ascx.designer.cs">
+      <DependentUpon>Abouts.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\AuthorList.aspx.cs">
+      <DependentUpon>AuthorList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\AuthorList.aspx.designer.cs">
+      <DependentUpon>AuthorList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\AuthorManageGratitude.ascx.cs">
+      <DependentUpon>AuthorManageGratitude.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\AuthorManageGratitude.ascx.designer.cs">
+      <DependentUpon>AuthorManageGratitude.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\AuthorManagerComment.ascx.cs">
+      <DependentUpon>AuthorManagerComment.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\AuthorManagerComment.ascx.designer.cs">
+      <DependentUpon>AuthorManagerComment.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\Business\KLAuthor.cs" />
+    <Compile Include="Custom\Business\KLBook.cs" />
+    <Compile Include="Custom\Business\KLFowllowAuthor.cs" />
+    <Compile Include="Custom\Business\KLGratitude.cs" />
+    <Compile Include="Custom\Business\KLLevel.cs" />
+    <Compile Include="Custom\Business\KLLikeHistory.cs" />
+    <Compile Include="Custom\Business\KLNew.cs" />
+    <Compile Include="Custom\Business\KLNewsComment.cs" />
+    <Compile Include="Custom\Business\KLNewsType.cs" />
+    <Compile Include="Custom\Business\KLNotify.cs" />
+    <Compile Include="Custom\Business\News.cs" />
+    <Compile Include="Custom\ChangeNewPassword.ascx.cs">
+      <DependentUpon>ChangeNewPassword.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\ChangeNewPassword.ascx.designer.cs">
+      <DependentUpon>ChangeNewPassword.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\Components\AuthorHepper.cs" />
+    <Compile Include="Custom\Components\BookHelper.cs" />
+    <Compile Include="Custom\Components\GeneralVariables.cs" />
+    <Compile Include="Custom\Components\NewsDisplaySettings.cs" />
+    <Compile Include="Custom\Components\NewsHelper.cs" />
+    <Compile Include="Custom\Data\DBKLAuthor.cs" />
+    <Compile Include="Custom\Data\DBKLBook.cs" />
+    <Compile Include="Custom\Data\DBKLFowllowAuthor.cs" />
+    <Compile Include="Custom\Data\DBKLGratitude.cs" />
+    <Compile Include="Custom\Data\DBKLLevel.cs" />
+    <Compile Include="Custom\Data\DBKLLikeHistory.cs" />
+    <Compile Include="Custom\Data\DBKLNews.cs" />
+    <Compile Include="Custom\Data\DBKLNewsComment.cs" />
+    <Compile Include="Custom\Data\DBKLNewType.cs" />
+    <Compile Include="Custom\Data\DBKLNotify.cs" />
+    <Compile Include="Custom\Data\DBNews.cs" />
+    <Compile Include="Custom\KLADDGratitude.ascx.cs">
+      <DependentUpon>KLADDGratitude.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLADDGratitude.ascx.designer.cs">
+      <DependentUpon>KLADDGratitude.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\klAuthorChangePassword.ascx.cs">
+      <DependentUpon>klAuthorChangePassword.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\klAuthorChangePassword.ascx.designer.cs">
+      <DependentUpon>klAuthorChangePassword.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthorFollowing.ascx.cs">
+      <DependentUpon>KLAuthorFollowing.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthorFollowing.ascx.designer.cs">
+      <DependentUpon>KLAuthorFollowing.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthorLayer.ascx.cs">
+      <DependentUpon>KLAuthorLayer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthorLayer.ascx.designer.cs">
+      <DependentUpon>KLAuthorLayer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthorList.ascx.cs">
+      <DependentUpon>KLAuthorList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthorList.ascx.designer.cs">
+      <DependentUpon>KLAuthorList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthorLogin.ascx.cs">
+      <DependentUpon>KLAuthorLogin.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthorLogin.ascx.designer.cs">
+      <DependentUpon>KLAuthorLogin.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthorNews.ascx.cs">
+      <DependentUpon>KLAuthorNews.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthorNews.ascx.designer.cs">
+      <DependentUpon>KLAuthorNews.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthor_Articles.ascx.cs">
+      <DependentUpon>KLAuthor_Articles.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthor_Articles.ascx.designer.cs">
+      <DependentUpon>KLAuthor_Articles.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthor_Books.ascx.cs">
+      <DependentUpon>KLAuthor_Books.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthor_Books.ascx.designer.cs">
+      <DependentUpon>KLAuthor_Books.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLAuthor_Gratitude.ascx.cs">
+      <DependentUpon>KLAuthor_Gratitude.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLAuthor_Gratitude.ascx.designer.cs">
+      <DependentUpon>KLAuthor_Gratitude.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLBookPosted.ascx.cs">
+      <DependentUpon>KLBookPosted.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLBookPosted.ascx.designer.cs">
+      <DependentUpon>KLBookPosted.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLEditAuthor.ascx.cs">
+      <DependentUpon>KLEditAuthor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLEditAuthor.ascx.designer.cs">
+      <DependentUpon>KLEditAuthor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLGratitudePage.ascx.cs">
+      <DependentUpon>KLGratitudePage.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLGratitudePage.ascx.designer.cs">
+      <DependentUpon>KLGratitudePage.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLRegisterAuthor.ascx.cs">
+      <DependentUpon>KLRegisterAuthor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLRegisterAuthor.ascx.designer.cs">
+      <DependentUpon>KLRegisterAuthor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLADDBook.ascx.cs">
+      <DependentUpon>KLADDBook.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLADDBook.ascx.designer.cs">
+      <DependentUpon>KLADDBook.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\KLADDNews.ascx.cs">
+      <DependentUpon>KLADDNews.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\KLADDNews.ascx.designer.cs">
+      <DependentUpon>KLADDNews.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\LeftMenu.ascx.cs">
+      <DependentUpon>LeftMenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\LeftMenu.ascx.designer.cs">
+      <DependentUpon>LeftMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\NewsComments.ascx.cs">
+      <DependentUpon>NewsComments.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\NewsComments.ascx.designer.cs">
+      <DependentUpon>NewsComments.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\NewTypeEdit.aspx.cs">
+      <DependentUpon>NewTypeEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\NewTypeEdit.aspx.designer.cs">
+      <DependentUpon>NewTypeEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\NewTypeList.aspx.cs">
+      <DependentUpon>NewTypeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\NewTypeList.aspx.designer.cs">
+      <DependentUpon>NewTypeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\RegisterSuccess.ascx.cs">
+      <DependentUpon>RegisterSuccess.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\RegisterSuccess.ascx.designer.cs">
+      <DependentUpon>RegisterSuccess.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\ResetPassword.ascx.cs">
+      <DependentUpon>ResetPassword.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\ResetPassword.ascx.designer.cs">
+      <DependentUpon>ResetPassword.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\Services\NewsServices.aspx.cs">
+      <DependentUpon>NewsServices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\Services\NewsServices.aspx.designer.cs">
+      <DependentUpon>NewsServices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_GlobalResources\CustomResources.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>CustomResources.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\Debug\CanhCam.Features.News.csprojResolveAssemblyReference.cache" />
+    <Content Include="obj\Debug\CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="obj\Release\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache" />
+    <Content Include="obj\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <Content Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="obj\Release\ResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>10664</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:15000/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /s /y /d "$(ProjectDir)bin\CanhCam.Features.Custom.dll" "$(SolutionDir)Published\bin\"
+xcopy /s /y /d "$(ProjectDir)App_GlobalResources\*.resx" "$(SolutionDir)Published\App_GlobalResources\"
+xcopy /s /y /d "$(ProjectDir)Custom\*.ascx" "$(SolutionDir)Published\Custom\"
+xcopy /s /y /d "$(ProjectDir)Custom\*.aspx" "$(SolutionDir)Published\Custom\"</PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+</Project>

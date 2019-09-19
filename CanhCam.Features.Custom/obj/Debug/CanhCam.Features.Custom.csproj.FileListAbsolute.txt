@@ -1,0 +1,551 @@
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Common.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Core.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Extensions.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtml.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\HtmlDiff.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\log4net.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Telerik.Web.UI.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\NPOI.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\ICSharpCode.SharpZipLib.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Common.pdb
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Common.xml
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Core.pdb
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Core.xml
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Extensions.pdb
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\Argotic.Extensions.xml
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\bin\log4net.xml
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\Projects\CanhCam\CanhCam - 7.2.6.3\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Mono.Security.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\NPOI.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\ICSharpCode.SharpZipLib.dll
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Argotic.Common.pdb
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Argotic.Common.xml
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Argotic.Core.pdb
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Argotic.Core.xml
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Argotic.Extensions.pdb
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\Argotic.Extensions.xml
+D:\Projects\2015\VinhTuong\CanhCam.Features.Custom\bin\log4net.xml
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Recaptcha.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\dotless.Core.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Subkismet.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\NPOI.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\ICSharpCode.SharpZipLib.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+F:\Project\VinhTuong2016\VinhTuong\CanhCam.Features.Custom\bin\Newtonsoft.Json.xml
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\Desktop\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+F:\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+F:\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+F:\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+F:\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+F:\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+F:\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+F:\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+F:\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Recaptcha.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\dotless.Core.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Subkismet.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+E:\vinh tuong\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Recaptcha.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\dotless.Core.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Subkismet.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+C:\Users\Chinh\Desktop\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Lucene.Net.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Recaptcha.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\dotless.Core.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Subkismet.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\cty\VinhTuong2016\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+E:\VinhTuong2016.Old\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\cty\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+D:\Sang\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\Sang\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\Sang\KinhLuanbk\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Newtonsoft.Json.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Recaptcha.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\dotless.Core.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Subkismet.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+D:\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+D:\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+D:\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+D:\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+D:\cty\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll.config
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.Custom.pdb
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Business.WebHelpers.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Data.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Features.FormWizard.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Net.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Controls.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Editor.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Framework.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Novell.Directory.Ldap.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\DotNetOpenAuth.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Client.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Recaptcha.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Ionic.Zip.Reduced.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Analyzers.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.ApplicationServer.Caching.Core.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\CanhCam.Web.Utilities.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Highlighter.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\dotless.Core.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Subkismet.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\MetaDataExtractor.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Brettle.Web.NeatHtmlTools.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Mvc.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Data.Common.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.WindowsFabric.Common.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Lucene.Net.Contrib.Memory.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\System.Web.Razor.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Razor.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\Microsoft.Web.Infrastructure.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\bin\System.Web.WebPages.Deployment.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.pdb
+F:\Canh Cam\KinhLuan\CanhCam.Features.Custom\obj\Debug\CanhCam.Features.Custom.csprojResolveAssemblyReference.cache

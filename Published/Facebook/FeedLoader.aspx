@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FeedLoader.aspx.cs" Inherits="CanhCam.Web.FacebookUI.FeedLoader" %>

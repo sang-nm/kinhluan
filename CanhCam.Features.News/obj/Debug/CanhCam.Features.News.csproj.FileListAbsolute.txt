@@ -1,0 +1,73 @@
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Features.News.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Features.News.pdb
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Common.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Core.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Extensions.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Brettle.Web.NeatHtml.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Business.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Business.WebHelpers.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Data.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Net.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Web.Controls.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Web.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Web.Editor.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Web.Framework.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\HtmlDiff.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\log4net.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Telerik.Web.UI.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Novell.Directory.Ldap.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Lucene.Net.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\DotNetOpenAuth.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Recaptcha.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\CanhCam.Web.Utilities.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\dotless.Core.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Subkismet.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\MetaDataExtractor.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\NPOI.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Brettle.Web.NeatHtmlTools.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Microsoft.WindowsFabric.Common.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Lucene.Net.Contrib.Memory.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\ICSharpCode.SharpZipLib.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Common.pdb
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Common.xml
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Core.pdb
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Core.xml
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Extensions.pdb
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\Argotic.Extensions.xml
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\bin\log4net.xml
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.csprojResolveAssemblyReference.cache
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.dll
+D:\Projects\2015\CanhCam - 7.2.6.4\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.pdb
+E:\Canh Cam\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll.config
+E:\Canh Cam\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll
+E:\Canh Cam\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.pdb
+E:\Canh Cam\KinhLuan\CanhCam.Features.News\bin\Ionic.Zip.Reduced.dll
+E:\Canh Cam\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.dll
+E:\Canh Cam\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.pdb
+C:\Users\Administrator\Desktop\USB\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll.config
+C:\Users\Administrator\Desktop\USB\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll
+C:\Users\Administrator\Desktop\USB\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.pdb
+C:\Users\Administrator\Desktop\USB\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.dll
+C:\Users\Administrator\Desktop\USB\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.pdb
+F:\Canh Cam\KinhLuan\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll.config
+F:\Canh Cam\KinhLuan\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll
+F:\Canh Cam\KinhLuan\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.pdb
+F:\Canh Cam\KinhLuan\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.dll
+F:\Canh Cam\KinhLuan\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.pdb
+D:\cty\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll.config
+D:\cty\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll
+D:\cty\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.pdb
+D:\cty\KinhLuan\CanhCam.Features.News\bin\Ionic.Zip.Reduced.dll
+D:\cty\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.csprojResolveAssemblyReference.cache
+D:\cty\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.dll
+D:\cty\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.pdb
+F:\Canh Cam\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll.config
+F:\Canh Cam\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.News\bin\CanhCam.Features.News.pdb
+F:\Canh Cam\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.dll
+F:\Canh Cam\KinhLuan\CanhCam.Features.News\obj\Debug\CanhCam.Features.News.pdb
